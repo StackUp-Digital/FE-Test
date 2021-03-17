@@ -22,7 +22,7 @@ The widget must be created with HTML, CSS and JavaScript that can be executed in
 
 We want you to have the freedom to use frameworks and libraries that you are most comfortable with. So don't feel the need to be restricted to something like React (we use a combination of React and plain old JS at StackUp).
 
-You should also free to use SCSS, PostCSS or plain old CSS - we don't mind! As long as your code is structured and well written, we'll be happy!
+You should also feel free to use SCSS, PostCSS or plain old CSS - we don't mind! As long as your code is structured and well written, we'll be happy!
 
 ## MetaWeather API
 
