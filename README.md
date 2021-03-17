@@ -6,7 +6,7 @@ Thank you for taking the time to work through this task. The purpose of this tas
 
 Imagine you are presented with the following user story:
 
-> As a User I want a means of checking the weather forecast so that I can plan activities for my trip accordingly.
+> As a User I want the ability to check the weather forecast for a given location so that I can plan activities for my trip.
 
 We would like you to create a weather widget that could be used as part of a travel website. This widget should:
 
@@ -15,6 +15,14 @@ We would like you to create a weather widget that could be used as part of a tra
 - Upon selecting a location, the widget should hide the search results and return a weather forecast for the selected location.
 
 - Be responsive and functional across mobile and desktop based devices.
+
+## Design
+
+A figma document has been put together to demonstrate how we want the widget to look.
+
+- Figma Design: [https://www.figma.com/file/NRd8MVtMLn8X7rTJ06EjWK/Untitled?node-id=0%3A1](https://www.figma.com/file/NRd8MVtMLn8X7rTJ06EjWK/Untitled?node-id=0%3A1)
+
+- Please take a look at this video for a brief overview of the Figma document [https://www.loom.com/share/45259d7fadc04df4853aa7d18d625247](https://www.loom.com/share/45259d7fadc04df4853aa7d18d625247)
 
 ## Technical Requirements
 
