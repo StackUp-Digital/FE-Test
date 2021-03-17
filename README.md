@@ -56,7 +56,7 @@ Please use the MetaWeather weather icons when displaying the weather forecast in
 
 ## How to Submit Your Test
 
-When you are ready to hand your test over, please publish your code on to a GIT repository that we can access. Please include a README with instructions that tell us how to run your code locally.
+When you are ready to hand your test over, please publish your code up to a GIT repository that we can access. Please include a README with instructions that tell us how to run your code locally.
 
 ## Thank You!
 
